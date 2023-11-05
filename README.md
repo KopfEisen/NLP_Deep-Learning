@@ -2,7 +2,7 @@
 
 # Continue update
 
-Read the book $ < Nature Language Processing > $
+Read the book $  Nature Language Processing  $
 
 
 
